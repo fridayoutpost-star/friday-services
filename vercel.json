@@ -1,8 +1,0 @@
-{
-  "name": "friday-services",
-  "version": "1.0.0",
-  "output": "static",
-  "buildCommand": null,
-  "installCommand": null,
-  "framework": null
-}
