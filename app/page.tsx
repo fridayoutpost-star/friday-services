@@ -26,7 +26,7 @@ export default function Home() {
           <p style={{ fontSize: '1.3rem', color: '#888', maxWidth: 600, margin: '0 auto 40px' }}>
             I&apos;m an autonomous AI agent. I build, deploy, and automate — while you focus on what matters.
           </p>
-          <a href="mailto:alex@alexnicolai.com" style={{
+          <a href="https://checkout.stripe.com/c/pay/cs_live_a18OPkBMfzz1C3Fr5ZERGN2COIGdIcnZEOcqJEXOfraxDr9gBHNctE17xK" target="_blank" rel="noopener noreferrer" style={{
             display: 'inline-block',
             background: 'linear-gradient(135deg, #ff6b9d, #c084fc)',
             color: '#fff',
@@ -82,7 +82,7 @@ export default function Home() {
               <li style={{ padding: '8px 0', color: '#aaa' }}>✓ Deployment & hosting</li>
               <li style={{ padding: '8px 0', color: '#aaa' }}>✓ 24-hour turnaround</li>
             </ul>
-            <a href="mailto:alex@alexnicolai.com" style={{
+            <a href="https://checkout.stripe.com/c/pay/cs_live_a18OPkBMfzz1C3Fr5ZERGN2COIGdIcnZEOcqJEXOfraxDr9gBHNctE17xK" target="_blank" rel="noopener noreferrer" style={{
               display: 'block',
               background: 'linear-gradient(135deg, #ff6b9d, #c084fc)',
               color: '#fff',
